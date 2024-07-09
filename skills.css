@@ -1,0 +1,67 @@
+body {
+    background-color: lightsalmon;
+    padding-top: 3rem;
+}
+div {
+    border: 3px solid white;
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 0.3rem;
+    background-color: salmon;
+    color: white;
+    border-radius: 5rem;
+}
+div ul {
+   padding-left: 4rem;
+    list-style-type: none;
+    margin: 0;
+   
+}
+
+h1, h2, h3 {
+    margin: 2rem;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+   text-align: center;
+   padding-top: 0;
+}
+div li {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0.7rem;
+    font-size: 1.5rem;
+    padding: 0rem;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1.3rem;
+    font-size: 1.5rem;
+    padding-left: 3rem;
+}
+.skill1 {
+    border: 3px solid white;
+    margin-right: 8rem;
+    border-radius: 20px;
+}
+.skill2 {
+    border: 3px solid white;
+    margin-right: 8rem;
+    border-radius: 20px;
+}
+.skill3 {
+    border: 3px solid white;
+    margin-right: 15rem;
+    border-radius: 20px;
+}
+.skill4 {
+    border: 3px solid white;
+    margin-right: 1.2rem;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+

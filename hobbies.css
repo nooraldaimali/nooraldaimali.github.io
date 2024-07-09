@@ -1,0 +1,25 @@
+body {
+    background-image: url(./images/heart-ge2da80d5f_1920.jpg);
+}
+div {
+    border: 3px solid white;
+    margin: 5rem;
+    color: white;
+    border-radius: 3rem;
+}
+h2 {
+    border: 2px solid white;
+    margin-left: 2rem;
+    font-size: 2rem;
+   margin-right: 1rem;
+   border-radius: 2rem;
+   padding-left: 1rem;
+}
+div li {
+    border: 1px solid white;
+    list-style-type:lower-alpha;
+    margin: 1rem;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    padding-left: 1rem;
+}

@@ -1,0 +1,63 @@
+body {
+    background-image: url(./images/heart-ge2da80d5f_1920.jpg);
+  
+}
+h1, p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+    font-size: 2rem;
+}
+
+a {
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+
+.test {
+  
+   text-align: center;
+   margin-left: 1rem;
+}
+img {
+    width: 35px;
+    
+    padding-right: 0.5rem;
+    margin-bottom: 0;
+    
+}
+footer,div {
+    text-align: center;
+    border: 2px solid white;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 0.3rem;
+    border-radius: 10px;
+      
+}
+footer ul {
+    list-style-type: none;
+
+    margin-right:3rem;
+}
+footer li {
+    display: inline-block;
+   margin-left: 2rem;
+   color: black;
+ 
+}
+
+section {
+    margin-top: rem;
+    
+}
+div {
+    margin-top: 7rem;
+}
+
+
+
+
+
+
